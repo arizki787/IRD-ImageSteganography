@@ -1,1 +1,8 @@
 .venv
+secret_key.txt
+test.py
+extractexp.py
+embedexp.py
+__pycache__
+tempCodeRunnerFile.py
+dataUji
